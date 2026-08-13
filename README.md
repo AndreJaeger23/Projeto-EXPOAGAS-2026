@@ -1,4 +1,4 @@
-# Projeto-Validade
+# Projeto-EXPOAGAS-2026
 
 Esse é um projeto focado no desenvolvimento de uma solução para um dos vários problemas do varejo. Ele foi feito para ser apresentado na EXPOAGAS 2026, feito em parceria com a UniRitter.
 
